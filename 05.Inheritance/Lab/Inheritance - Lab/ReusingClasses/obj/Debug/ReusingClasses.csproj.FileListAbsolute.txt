@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\Inheritance - Lab\ReusingClasses\bin\Debug\ReusingClasses.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\Inheritance - Lab\ReusingClasses\bin\Debug\ReusingClasses.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\Inheritance - Lab\ReusingClasses\bin\Debug\ReusingClasses.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\Inheritance - Lab\ReusingClasses\obj\Debug\ReusingClasses.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\Inheritance - Lab\ReusingClasses\obj\Debug\ReusingClasses.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\Inheritance - Lab\ReusingClasses\obj\Debug\ReusingClasses.pdb

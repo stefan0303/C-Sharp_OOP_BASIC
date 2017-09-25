@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\Lab-Interfaces\01.Shapes\bin\Debug\01.Shapes.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\Lab-Interfaces\01.Shapes\obj\Debug\01.Shapes.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\Lab-Interfaces\01.Shapes\bin\Debug\01.Shapes.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\Lab-Interfaces\01.Shapes\bin\Debug\01.Shapes.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\Lab-Interfaces\01.Shapes\obj\Debug\01.Shapes.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\Lab-Interfaces\01.Shapes\obj\Debug\01.Shapes.pdb

@@ -1,8 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Exercises_Methods\2. Oldest Family Member\bin\Debug\_2.Oldest_Family_Member.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\02.Methods\Exercises_Methods\2. Oldest Family Member\bin\Debug\_2.Oldest_Family_Member.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\2. Oldest Family Member\bin\Debug\_2.Oldest_Family_Member.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\2. Oldest Family Member\bin\Debug\_2.Oldest_Family_Member.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\2. Oldest Family Member\bin\Debug\_2.Oldest_Family_Member.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\2. Oldest Family Member\obj\Debug\02. Oldest Family Member.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\2. Oldest Family Member\obj\Debug\_2.Oldest_Family_Member.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\2. Oldest Family Member\obj\Debug\_2.Oldest_Family_Member.pdb

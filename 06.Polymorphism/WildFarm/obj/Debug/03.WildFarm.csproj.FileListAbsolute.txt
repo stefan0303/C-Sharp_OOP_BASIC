@@ -1,6 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\04.C# OOP Basic\06.Polymorphism\WildFarm\bin\Debug\WildFarm.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\04.C# OOP Basic\06.Polymorphism\WildFarm\obj\Debug\WildFarm.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\04.C# OOP Basic\06.Polymorphism\WildFarm\obj\Debug\WildFarm.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\04.C# OOP Basic\06.Polymorphism\WildFarm\bin\Debug\WildFarm.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\04.C# OOP Basic\06.Polymorphism\WildFarm\bin\Debug\WildFarm.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\04.C# OOP Basic\06.Polymorphism\WildFarm\obj\Debug\03.WildFarm.csprojResolveAssemblyReference.cache

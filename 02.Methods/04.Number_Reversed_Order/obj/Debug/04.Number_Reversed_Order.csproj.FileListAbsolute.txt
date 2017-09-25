@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\04.Number_Reversed_Order\bin\Debug\04.Number_Reversed_Order.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\04.Number_Reversed_Order\bin\Debug\04.Number_Reversed_Order.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\04.Number_Reversed_Order\bin\Debug\04.Number_Reversed_Order.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\04.Number_Reversed_Order\obj\Debug\04.Number_Reversed_Order.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\04.Number_Reversed_Order\obj\Debug\04.Number_Reversed_Order.pdb

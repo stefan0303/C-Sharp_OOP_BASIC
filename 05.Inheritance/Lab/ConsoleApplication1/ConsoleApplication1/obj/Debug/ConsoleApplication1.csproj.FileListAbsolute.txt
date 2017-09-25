@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

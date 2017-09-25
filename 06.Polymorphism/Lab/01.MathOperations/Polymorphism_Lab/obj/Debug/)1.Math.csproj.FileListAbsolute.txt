@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\01.MathOperations\Polymorphism_Lab\bin\Debug\Polymorphism_Lab.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\01.MathOperations\Polymorphism_Lab\bin\Debug\Polymorphism_Lab.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\01.MathOperations\Polymorphism_Lab\bin\Debug\Polymorphism_Lab.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\01.MathOperations\Polymorphism_Lab\obj\Debug\)1.Math.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\01.MathOperations\Polymorphism_Lab\obj\Debug\Polymorphism_Lab.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\01.MathOperations\Polymorphism_Lab\obj\Debug\Polymorphism_Lab.pdb

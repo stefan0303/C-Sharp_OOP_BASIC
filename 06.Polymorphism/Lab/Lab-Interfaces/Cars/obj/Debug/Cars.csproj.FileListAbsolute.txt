@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\Lab-Interfaces\Cars\bin\Debug\Cars.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\Lab-Interfaces\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\Lab-Interfaces\Cars\bin\Debug\Cars.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\Lab-Interfaces\Cars\bin\Debug\Cars.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\Lab-Interfaces\Cars\obj\Debug\Cars.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\Lab-Interfaces\Cars\obj\Debug\Cars.pdb

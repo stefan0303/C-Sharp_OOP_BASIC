@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\03_Temperature_Converter\bin\Debug\03_Temperature_Converter.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\03_Temperature_Converter\obj\Debug\03_Temperature_Converter.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\03_Temperature_Converter\obj\Debug\03_Temperature_Converter.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\03.Static_Members\03_Temperature_Converter\bin\Debug\03_Temperature_Converter.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\03.Static_Members\03_Temperature_Converter\obj\Debug\03_Temperature_Converter.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\03.Static_Members\03_Temperature_Converter\obj\Debug\03_Temperature_Converter.pdb

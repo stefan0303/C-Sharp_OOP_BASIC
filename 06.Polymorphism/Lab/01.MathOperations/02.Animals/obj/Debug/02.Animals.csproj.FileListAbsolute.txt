@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\01.MathOperations\02.Animals\bin\Debug\02.Animals.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\01.MathOperations\02.Animals\bin\Debug\02.Animals.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\01.MathOperations\02.Animals\bin\Debug\02.Animals.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\01.MathOperations\02.Animals\obj\Debug\02.Animals.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\01.MathOperations\02.Animals\obj\Debug\02.Animals.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\01.MathOperations\02.Animals\obj\Debug\02.Animals.pdb

@@ -1,1 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\09.Google\bin\Debug\09.Google.exe.config

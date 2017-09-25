@@ -1,1 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Defining_Classes\10.Car Salesman\bin\Debug\10.Car Salesman.exe.config

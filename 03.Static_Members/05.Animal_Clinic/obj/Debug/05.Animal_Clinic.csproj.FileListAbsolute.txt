@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\05.Animal_Clinic\bin\Debug\05.Animal_Clinic.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\05.Animal_Clinic\bin\Debug\05.Animal_Clinic.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\05.Animal_Clinic\bin\Debug\05.Animal_Clinic.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\05.Animal_Clinic\obj\Debug\05.Animal_Clinic.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\05.Animal_Clinic\obj\Debug\05.Animal_Clinic.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\05.Animal_Clinic\obj\Debug\05.Animal_Clinic.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\03.Static_Members\05.Animal_Clinic\bin\Debug\05.Animal_Clinic.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\03.Static_Members\05.Animal_Clinic\obj\Debug\05.Animal_Clinic.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\03.Static_Members\05.Animal_Clinic\obj\Debug\05.Animal_Clinic.pdb
