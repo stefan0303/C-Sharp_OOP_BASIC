@@ -1,0 +1,9 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Exercises_Methods\08.Car\bin\Debug\08.Car.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Exercises_Methods\08.Car\obj\Debug\08.Car.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Exercises_Methods\08.Car\obj\Debug\08.Car.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Exercises_Methods\08.Car\obj\Debug\08.Car_Na 60_Procenta.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Exercises_Methods\08.Car\bin\Debug\08.Car.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Exercises_Methods\08.Car\bin\Debug\08.Car.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\08.Car\bin\Debug\08.Car.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\08.Car\obj\Debug\08.Car.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\08.Car\obj\Debug\08.Car.pdb

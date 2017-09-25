@@ -1,0 +1,3 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\10.Date_ Modifier\bin\Debug\10.Date_ Modifier.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\10.Date_ Modifier\obj\Debug\10.Date_ Modifier.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\10.Date_ Modifier\obj\Debug\10.Date_ Modifier.pdb

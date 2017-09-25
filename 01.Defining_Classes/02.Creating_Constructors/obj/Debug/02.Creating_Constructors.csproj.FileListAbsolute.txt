@@ -1,0 +1,15 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\02.Creating_Constructors\bin\Debug\02.Creating_Constructors.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\02.Creating_Constructors\obj\Debug\02.Creating_Constructors.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\02.Creating_Constructors\bin\Debug\02.Creating_Constructors.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\02.Creating_Constructors\bin\Debug\02.Creating_Constructors.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\02.Creating_Constructors\obj\Debug\02.Creating_Constructors.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\02.Creating_Constructors\obj\Debug\02.Creating_Constructors.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\02.Creating_Constructors\bin\Debug\02.Creating_Constructors.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\02.Creating_Constructors\obj\Debug\02.Creating_Constructors.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\02.Creating_Constructors\obj\Debug\02.Creating_Constructors.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\02.Creating_Constructors\bin\Debug\02.Creating_Constructors.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\02.Creating_Constructors\bin\Debug\02.Creating_Constructors.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\02.Creating_Constructors\obj\Debug\02.Creating_Constructors.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Defining_Classes\02.Creating_Constructors\bin\Debug\02.Creating_Constructors.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Defining_Classes\02.Creating_Constructors\obj\Debug\02.Creating_Constructors.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Defining_Classes\02.Creating_Constructors\obj\Debug\02.Creating_Constructors.pdb

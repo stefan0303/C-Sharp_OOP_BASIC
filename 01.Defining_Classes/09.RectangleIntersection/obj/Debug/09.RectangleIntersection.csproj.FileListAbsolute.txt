@@ -1,0 +1,9 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\09.RectangleIntersection\bin\Debug\09.RectangleIntersection.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\09.RectangleIntersection\bin\Debug\09.RectangleIntersection.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\09.RectangleIntersection\bin\Debug\09.RectangleIntersection.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\09.RectangleIntersection\obj\Debug\09.RectangleIntersection.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\09.RectangleIntersection\obj\Debug\09.RectangleIntersection.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\09.RectangleIntersection\obj\Debug\09.RectangleIntersection.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Defining_Classes\09.RectangleIntersection\bin\Debug\09.RectangleIntersection.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Defining_Classes\09.RectangleIntersection\obj\Debug\09.RectangleIntersection.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Defining_Classes\09.RectangleIntersection\obj\Debug\09.RectangleIntersection.pdb

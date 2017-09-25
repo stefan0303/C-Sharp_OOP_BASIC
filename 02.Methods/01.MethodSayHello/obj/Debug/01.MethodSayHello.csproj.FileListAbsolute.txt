@@ -1,0 +1,1 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Methods\01.MethodSayHello\bin\Debug\01.MethodSayHello.exe.config

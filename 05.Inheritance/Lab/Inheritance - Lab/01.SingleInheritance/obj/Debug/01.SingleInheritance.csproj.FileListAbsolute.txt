@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\Inheritance - Lab\01.SingleInheritance\bin\Debug\01.SingleInheritance.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\Inheritance - Lab\01.SingleInheritance\bin\Debug\01.SingleInheritance.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\Inheritance - Lab\01.SingleInheritance\bin\Debug\01.SingleInheritance.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\Inheritance - Lab\01.SingleInheritance\obj\Debug\01.SingleInheritance.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\Inheritance - Lab\01.SingleInheritance\obj\Debug\01.SingleInheritance.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\05.Inheritance\Lab\Inheritance - Lab\01.SingleInheritance\obj\Debug\01.SingleInheritance.pdb

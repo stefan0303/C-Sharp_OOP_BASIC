@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\04.Beer_Counter\bin\Debug\04.Beer_Counter.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\04.Beer_Counter\obj\Debug\04.Beer_Counter.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\04.Beer_Counter\obj\Debug\04.Beer_Counter.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\03.Static_Members\04.Beer_Counter\bin\Debug\04.Beer_Counter.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\03.Static_Members\04.Beer_Counter\obj\Debug\04.Beer_Counter.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\03.Static_Members\04.Beer_Counter\obj\Debug\04.Beer_Counter.pdb

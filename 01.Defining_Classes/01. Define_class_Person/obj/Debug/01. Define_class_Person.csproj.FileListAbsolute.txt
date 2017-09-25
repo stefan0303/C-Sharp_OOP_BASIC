@@ -1,0 +1,8 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\01. Define_class_Person\bin\Debug\_01.Define_class_Person.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\01. Define_class_Person\bin\Debug\_01.Define_class_Person.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Defining_Classes\01. Define_class_Person\bin\Debug\_01.Define_class_Person.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Defining_Classes\01. Define_class_Person\bin\Debug\_01.Define_class_Person.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Defining_Classes\01. Define_class_Person\bin\Debug\_01.Define_class_Person.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Defining_Classes\01. Define_class_Person\obj\Debug\01. Define_class_Person.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Defining_Classes\01. Define_class_Person\obj\Debug\_01.Define_class_Person.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# OOP Basic\Defining_Classes\01. Define_class_Person\obj\Debug\_01.Define_class_Person.pdb

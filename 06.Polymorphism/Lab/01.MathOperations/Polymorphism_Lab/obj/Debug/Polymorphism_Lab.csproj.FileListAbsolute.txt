@@ -1,0 +1,1 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\06.Polymorphism\Lab\01.MathOperations\Polymorphism_Lab\bin\Debug\Polymorphism_Lab.exe.config

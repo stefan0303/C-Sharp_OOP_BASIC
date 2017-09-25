@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\06.Planck_Constant\bin\Debug\06.Planck_Constant.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\06.Planck_Constant\bin\Debug\06.Planck_Constant.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\06.Planck_Constant\bin\Debug\06.Planck_Constant.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\06.Planck_Constant\obj\Debug\06.Planck_Constant.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\06.Planck_Constant\obj\Debug\06.Planck_Constant.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Exercises Methods\Static Members Exercises\Exercise\06.Planck_Constant\obj\Debug\06.Planck_Constant.pdb
